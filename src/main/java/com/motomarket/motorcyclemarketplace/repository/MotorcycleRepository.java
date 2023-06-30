@@ -5,4 +5,5 @@ import com.motomarket.motorcyclemarketplace.model.Motorcycle;
 
 public interface MotorcycleRepository extends JpaRepository<Motorcycle, Long> {
 
+
 }

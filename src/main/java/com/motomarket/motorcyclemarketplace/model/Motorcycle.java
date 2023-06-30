@@ -4,7 +4,6 @@ import javax.persistence.*;
 
 @Entity
 public class Motorcycle {
-
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
 
